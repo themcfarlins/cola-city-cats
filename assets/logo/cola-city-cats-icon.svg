@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Cola City Cats – Icon</title><desc>Cola City Cats vector logo featuring a Bengal cat mascot and Columbia, South Carolina-inspired skyline.</desc><circle cx="256" cy="256" r="240" fill="#173B5E" stroke="#C99A2E" stroke-width="14"/>
+    <g transform="translate(95,75) scale(1.05)">
+      <g stroke="#173B5E" stroke-width="4" stroke-linejoin="round">
+        <path d="M112 143 C104 170 101 205 111 232 C124 254 158 258 183 245 C202 235 208 205 198 169 C189 139 160 126 134 129 Z" fill="#B97832"/>
+      </g>
+      <path d="M120 214 L111 278 L135 278 L147 224 Z"/><path d="M174 214 L182 278 L205 278 L197 219 Z"/>
+      <path d="M190 210 C232 225 257 211 258 184 C259 171 250 163 242 170 C249 181 244 193 230 195 C214 198 204 191 197 185 Z"/>
+      <path d="M104 135 L96 90 L126 105 C144 95 168 95 187 105 L215 89 L207 136 C202 160 182 175 156 175 C130 175 109 159 104 135 Z" fill="#B97832" stroke="#173B5E" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M103 106 L98 92 L116 105 Z M207 105 L212 91 L193 105 Z" fill="#9B5C29" stroke="#173B5E" stroke-width="4"/>
+      
+      <g fill="#8B5A24" opacity=".95">
+        <ellipse cx="123" cy="146" rx="8" ry="5"/><ellipse cx="145" cy="157" rx="9" ry="6"/>
+        <ellipse cx="169" cy="145" rx="8" ry="5"/><ellipse cx="132" cy="183" rx="11" ry="7"/>
+        <ellipse cx="163" cy="193" rx="10" ry="6"/><ellipse cx="146" cy="217" rx="12" ry="7"/>
+        <ellipse cx="173" cy="232" rx="9" ry="6"/>
+      </g>
+      <g fill="none" stroke="#6B421F" stroke-width="5" stroke-linecap="round">
+        <path d="M117 111 q14 10 24 0"/><path d="M169 111 q-14 10 -24 0"/>
+        <path d="M111 128 q14 8 20 2"/><path d="M179 128 q-14 8 -20 2"/>
+        <path d="M118 172 q11 7 18 2"/><path d="M173 172 q-11 7 -18 2"/>
+        <path d="M128 197 q12 7 18 2"/><path d="M168 205 q-10 7 -17 2"/>
+      </g>
+    
+      
+      <ellipse cx="132" cy="130" rx="8" ry="10" fill="#D7B84B"/>
+      <ellipse cx="179" cy="130" rx="8" ry="10" fill="#D7B84B"/>
+      <ellipse cx="133" cy="131" rx="3" ry="6" fill="#111"/>
+      <ellipse cx="178" cy="131" rx="3" ry="6" fill="#111"/>
+      <path d="M151 145 l8 0 l-4 7 z" fill="#6B3B2A"/>
+      <path d="M155 152 q-7 9 -16 4 M155 152 q7 9 16 4" fill="none" stroke="#6B3B2A" stroke-width="3" stroke-linecap="round"/>
+    
+      <path d="M113 145 L94 141 M113 151 L91 153 M197 145 L216 141 M197 151 L219 153" stroke="#173B5E" stroke-width="2" fill="none"/>
+    </g>
+    <path d="M115 375 Q256 330 397 375" fill="none" stroke="#C99A2E" stroke-width="10"/></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" fill="#f7f0df"/>
+<circle cx="400" cy="300" r="130" fill="#173b5e" opacity=".10"/>
+<path d="M320 270 L300 190 L355 220 C385 200 415 200 445 220 L500 190 L480 270 C470 325 430 355 400 355 C370 355 330 325 320 270Z" fill="#173b5e" opacity=".55"/>
+<circle cx="365" cy="270" r="10" fill="#c99a2e"/><circle cx="435" cy="270" r="10" fill="#c99a2e"/>
+<path d="M395 292 l10 0 l-5 8z" fill="#173b5e"/>
+<text x="400" y="470" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#173b5e">Kitten Photo</text>
+<text x="400" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#52606d">Add your kitten photo here</text>
+</svg>

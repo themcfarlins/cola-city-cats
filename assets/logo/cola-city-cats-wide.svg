@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<title>Cola City Cats – Wide Logo</title><desc>Cola City Cats vector logo featuring a Bengal cat mascot and Columbia, South Carolina-inspired skyline.</desc><rect width="1600" height="800" fill="transparent"/><path d="M130 510 Q800 310 1470 510 L1420 610 Q800 500 180 610Z" fill="#F7F0DF"/><g transform="translate(80,80) scale(1.5)">
+<g fill="#173B5E">
+  <rect x="45" y="205" width="42" height="70"/><rect x="92" y="178" width="34" height="97"/>
+  <rect x="132" y="194" width="28" height="81"/><rect x="166" y="165" width="42" height="110"/>
+  <rect x="214" y="190" width="36" height="85"/><rect x="256" y="210" width="44" height="65"/>
+  <path d="M145 205 h45 v70 h-45 z"/>
+  <path d="M148 205 q20 -50 40 0 Z"/>
+  <rect x="162" y="184" width="4" height="20"/><path d="M160 184 l4 -9 l4 9z"/>
+</g>
+<path d="M25 277 Q160 248 295 277" fill="none" stroke="#C99A2E" stroke-width="6"/>
+<g fill="#C99A2E"><circle cx="62" cy="159" r="3"/><circle cx="83" cy="145" r="3"/><circle cx="265" cy="150" r="3"/></g>
+<path d="M273 125 A22 22 0 1 0 250 109 A18 18 0 1 1 273 125Z" fill="#C99A2E"/>
+<g fill="#173B5E">
+  <path d="M278 185 C268 160 270 142 276 132 C281 142 283 160 278 185Z"/>
+  <path d="M278 160 C260 151 254 144 253 138 C264 140 273 146 278 153Z"/>
+  <path d="M278 160 C296 151 302 144 303 138 C292 140 283 146 278 153Z"/>
+</g>
+</g>
+    <g transform="translate(470,180) scale(1.25)">
+      <g stroke="#173B5E" stroke-width="4" stroke-linejoin="round">
+        <path d="M72 174 C88 135 132 124 181 140 C214 151 247 166 266 186 C249 211 207 222 157 216 C115 211 84 202 65 191 Z" fill="#B97832"/>
+      </g>
+      <path d="M185 194 C198 211 221 219 245 217 L257 228 C229 236 198 230 175 213 Z"/><path d="M107 192 C93 207 74 216 49 215 L41 224 C72 230 102 220 121 204 Z"/>
+      <path d="M70 185 C39 179 20 161 24 143 C27 131 39 128 47 136 C39 145 43 153 56 157 C69 160 80 161 90 164 Z"/>
+      <path d="M73 142 L66 99 L93 113 C112 100 139 99 159 111 L186 96 L180 141 C176 163 154 176 127 176 C101 176 79 163 73 142 Z" fill="#B97832" stroke="#173B5E" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M103 106 L98 92 L116 105 Z M207 105 L212 91 L193 105 Z" fill="#9B5C29" stroke="#173B5E" stroke-width="4"/>
+      
+      <g fill="#8B5A24" opacity=".95">
+        <ellipse cx="123" cy="146" rx="8" ry="5"/><ellipse cx="145" cy="157" rx="9" ry="6"/>
+        <ellipse cx="169" cy="145" rx="8" ry="5"/><ellipse cx="132" cy="183" rx="11" ry="7"/>
+        <ellipse cx="163" cy="193" rx="10" ry="6"/><ellipse cx="146" cy="217" rx="12" ry="7"/>
+        <ellipse cx="173" cy="232" rx="9" ry="6"/>
+      </g>
+      <g fill="none" stroke="#6B421F" stroke-width="5" stroke-linecap="round">
+        <path d="M117 111 q14 10 24 0"/><path d="M169 111 q-14 10 -24 0"/>
+        <path d="M111 128 q14 8 20 2"/><path d="M179 128 q-14 8 -20 2"/>
+        <path d="M118 172 q11 7 18 2"/><path d="M173 172 q-11 7 -18 2"/>
+        <path d="M128 197 q12 7 18 2"/><path d="M168 205 q-10 7 -17 2"/>
+      </g>
+    
+      
+      <ellipse cx="132" cy="130" rx="8" ry="10" fill="#D7B84B"/>
+      <ellipse cx="179" cy="130" rx="8" ry="10" fill="#D7B84B"/>
+      <ellipse cx="133" cy="131" rx="3" ry="6" fill="#111"/>
+      <ellipse cx="178" cy="131" rx="3" ry="6" fill="#111"/>
+      <path d="M151 145 l8 0 l-4 7 z" fill="#6B3B2A"/>
+      <path d="M155 152 q-7 9 -16 4 M155 152 q7 9 16 4" fill="none" stroke="#6B3B2A" stroke-width="3" stroke-linecap="round"/>
+    
+      <path d="M113 145 L94 141 M113 151 L91 153 M197 145 L216 141 M197 151 L219 153" stroke="#173B5E" stroke-width="2" fill="none"/>
+    </g>
+    <text x="800" y="635" text-anchor="middle" font-family="Georgia,serif" font-size="118" font-weight="700" fill="#173B5E" letter-spacing="4">COLA CITY</text><text x="800" y="725" text-anchor="middle" font-family="Georgia,serif" font-size="66" font-weight="700" fill="#C99A2E" letter-spacing="22">CATS</text></svg>
