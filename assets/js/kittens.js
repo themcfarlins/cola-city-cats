@@ -5,7 +5,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "blue.jpeg",
     "description": "Beautiful markings and a playful, curious personality."
   },
   {
@@ -14,7 +14,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "yellow.jpeg",
     "description": "Raised indoors with plenty of daily interaction."
   },
   {
@@ -23,7 +23,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "blue.jpeg",
     "description": "Confident, social and ready to meet his forever family."
   },
   {
@@ -32,7 +32,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "green.jpeg",
     "description": "Active, curious and full of personality."
   },
   {
@@ -41,7 +41,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "gray.jpeg",
     "description": "Sweet, playful and accustomed to family life."
   },
   {
@@ -50,7 +50,7 @@ window.kittens = [
     "sex": "Female",
     "collar": "Purple collar",
     "status": "Check Availability",
-    "photo": "kitten-placeholder.svg",
+    "photo": "purple.jpeg",
     "description": "The only girl in the litter, easily identified by her purple collar."
   }
 ];
