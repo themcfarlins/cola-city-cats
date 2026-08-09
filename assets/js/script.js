@@ -37,12 +37,3 @@ menuToggle?.addEventListener("click", () => {
 document.querySelectorAll(".nav a").forEach(a => a.addEventListener("click", () => nav.classList.remove("open")));
 
 document.getElementById("year").textContent = new Date().getFullYear();
-
-// This is only a UX fallback. Formspree handles the actual submission after the endpoint is configured.
-const form = document.getElementById("contact-form");
-form?.addEventListener("submit", (e) => {
-  if (form.action.includes("YOUR_FORM_ID")) {
-    e.preventDefault();
-    alert("The contact form is ready, but it still needs your Formspree form ID. We'll connect this before launch.");
-  }
-});
