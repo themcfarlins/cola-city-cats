@@ -5,7 +5,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "",
     "status": "Check Availability",
-    "photo": "blue.jpeg",
+    "photo": "red.jpeg",
     "description": "Beautiful markings and a playful, curious personality."
   },
   {
