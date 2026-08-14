@@ -66,10 +66,14 @@ renderKittens();
 
 const menuToggle = document.querySelector(".menu-toggle");
 const nav = document.querySelector(".nav");
+
 menuToggle?.addEventListener("click", () => {
   const open = nav.classList.toggle("open");
   menuToggle.setAttribute("aria-expanded", open ? "true" : "false");
 });
-document.querySelectorAll(".nav a").forEach(a => a.addEventListener("click", () => nav.classList.remove("open")));
+
+document.querySelectorAll(".nav a").forEach(a =>
+  a.addEventListener("click", () => nav.classList.remove("open"))
+);
 
 document.getElementById("year").textContent = new Date().getFullYear();
