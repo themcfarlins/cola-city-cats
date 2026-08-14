@@ -123,3 +123,25 @@ details p{color:var(--muted);margin:12px 0 0}
   .kitten-grid,.value-grid{grid-template-columns:1fr}
   .footer-grid{grid-template-columns:1fr}
 }
+
+.kitten-price {
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: var(--navy);
+  margin: 4px 0 12px;
+}
+
+.status-available {
+  background: #E5F3E8;
+  color: #27633A;
+}
+
+.status-reserved {
+  background: #F3E8C8;
+  color: #7A5B00;
+}
+
+.kitten-unavailable {
+  color: #7A5B00;
+  cursor: default;
+}
