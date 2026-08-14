@@ -1,56 +1,56 @@
 window.kittens = [
   {
-    "id": "male-1",
-    "name": "Male Kitten 1",
+    "id": "red",
+    "name": "Red",
     "sex": "Male",
-    "collar": "",
-    "status": "Check Availability",
+    "collar": "Red collar",
+    "status": "Availabe",
     "photo": "red.jpeg",
-    "description": "Beautiful markings and a playful, curious personality."
+    "description": ""
   },
   {
-    "id": "male-2",
-    "name": "Male Kitten 2",
+    "id": "yellow",
+    "name": "Yellow",
     "sex": "Male",
-    "collar": "",
-    "status": "Check Availability",
+    "collar": "Yellow collar",
+    "status": "Availabe",
     "photo": "yellow.jpeg",
-    "description": "Raised indoors with plenty of daily interaction."
+    "description": ""
   },
   {
-    "id": "male-3",
-    "name": "Male Kitten 3",
+    "id": "blue",
+    "name": "Blue",
     "sex": "Male",
-    "collar": "",
-    "status": "Check Availability",
+    "collar": "Blue collar",
+    "status": "Reserved",
     "photo": "blue.jpeg",
-    "description": "Confident, social and ready to meet his forever family."
+    "description": ""
   },
   {
-    "id": "male-4",
-    "name": "Male Kitten 4",
+    "id": "green",
+    "name": "Green",
     "sex": "Male",
-    "collar": "",
-    "status": "Check Availability",
+    "collar": "Green collar",
+    "status": "Availabe",
     "photo": "green.jpeg",
-    "description": "Active, curious and full of personality."
+    "description": ""
   },
   {
-    "id": "male-5",
-    "name": "Male Kitten 5",
+    "id": "gray",
+    "name": "Gray",
     "sex": "Male",
-    "collar": "",
-    "status": "Check Availability",
+    "collar": "Gray collar",
+    "status": "Availabe",
     "photo": "gray.jpeg",
-    "description": "Sweet, playful and accustomed to family life."
+    "description": ""
   },
   {
-    "id": "female-1",
-    "name": "Female Kitten",
+    "id": "purple",
+    "name": "Purple",
     "sex": "Female",
     "collar": "Purple collar",
-    "status": "Check Availability",
+    "status": "Availabe",
     "photo": "purple.jpeg",
-    "description": "The only girl in the litter, easily identified by her purple collar."
+    "description": ""
   }
 ];
