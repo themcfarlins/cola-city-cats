@@ -4,7 +4,8 @@ window.kittens = [
     "name": "Red",
     "sex": "Male",
     "collar": "Red collar",
-    "status": "Availabe",
+    "status": "Available",
+    "price": "$950",
     "photo": "red.jpeg",
     "description": ""
   },
@@ -13,7 +14,8 @@ window.kittens = [
     "name": "Yellow",
     "sex": "Male",
     "collar": "Yellow collar",
-    "status": "Availabe",
+    "status": "Available",
+    "price": "$950",
     "photo": "yellow.jpeg",
     "description": ""
   },
@@ -23,6 +25,7 @@ window.kittens = [
     "sex": "Male",
     "collar": "Blue collar",
     "status": "Reserved",
+    "price": "",
     "photo": "blue.jpeg",
     "description": ""
   },
@@ -31,7 +34,8 @@ window.kittens = [
     "name": "Green",
     "sex": "Male",
     "collar": "Green collar",
-    "status": "Availabe",
+    "status": "Available",
+    "price": "$950",
     "photo": "green.jpeg",
     "description": ""
   },
@@ -40,7 +44,8 @@ window.kittens = [
     "name": "Gray",
     "sex": "Male",
     "collar": "Gray collar",
-    "status": "Availabe",
+    "status": "Available",
+    "price": "$950",
     "photo": "gray.jpeg",
     "description": ""
   },
@@ -49,7 +54,8 @@ window.kittens = [
     "name": "Purple",
     "sex": "Female",
     "collar": "Purple collar",
-    "status": "Availabe",
+    "status": "Available",
+    "price": "$950",
     "photo": "purple.jpeg",
     "description": ""
   }
