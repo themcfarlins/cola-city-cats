@@ -6,7 +6,7 @@ window.kittens = [
     "collar": "Red collar",
     "status": "Available",
     "price": "$950",
-    "photo": "red.jpeg",
+    "photo": "red16.jpeg",
     "description": ""
   },
   {
@@ -16,7 +16,7 @@ window.kittens = [
     "collar": "Yellow collar",
     "status": "Available",
     "price": "$950",
-    "photo": "yellow.jpeg",
+    "photo": "yellow16.jpeg",
     "description": ""
   },
   {
@@ -26,7 +26,7 @@ window.kittens = [
     "collar": "Blue collar",
     "status": "Reserved",
     "price": "",
-    "photo": "blue.jpeg",
+    "photo": "blue16.jpeg",
     "description": ""
   },
   {
@@ -36,7 +36,7 @@ window.kittens = [
     "collar": "Green collar",
     "status": "Available",
     "price": "$950",
-    "photo": "green.jpeg",
+    "photo": "green16.jpeg",
     "description": ""
   },
   {
@@ -46,7 +46,7 @@ window.kittens = [
     "collar": "Gray collar",
     "status": "Available",
     "price": "$950",
-    "photo": "gray.jpeg",
+    "photo": "gray16.jpeg",
     "description": ""
   },
   {
@@ -56,7 +56,7 @@ window.kittens = [
     "collar": "Purple collar",
     "status": "Available",
     "price": "$950",
-    "photo": "purple.jpeg",
+    "photo": "purple16.jpeg",
     "description": ""
   }
 ];
