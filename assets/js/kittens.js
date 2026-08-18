@@ -6,7 +6,7 @@ window.kittens = [
     "collar": "Red collar",
     "status": "Available",
     "price": "$950",
-    "photo": "red16.jpeg",
+    "photo": "Red16.jpeg",
     "description": ""
   },
   {
